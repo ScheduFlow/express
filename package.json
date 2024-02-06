@@ -1,0 +1,22 @@
+{
+  "name": "express",
+  "version": "0.1.0",
+  "description": "express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScheduFlow/express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "ScheduFlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScheduFlow/express/issues"
+  },
+  "homepage": "https://github.com/ScheduFlow/express#readme"
+}
