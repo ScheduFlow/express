@@ -22,6 +22,6 @@
   "homepage": "https://github.com/ScheduFlow/express#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "scheduflow-express-router-npm": "^1.1.1"
+    "scheduflow-express-router-npm": "^1.1.2"
   }
 }
