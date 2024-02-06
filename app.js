@@ -4,7 +4,7 @@ const app = express()
 const router = express.Router();
 const port = 3000
 
-const schedule = require('./routers/schedule')
+const schedule = require('scheduflow-express-router-npm')
 
 app.set('port', process.env.PORT || 3000);
 
