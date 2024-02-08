@@ -2,6 +2,7 @@
 
 ```sh
 $ npm init
+$ npm install scheduflow-express-router-npm
 $ npm install express --save
 ```
 
